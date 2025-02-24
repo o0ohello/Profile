@@ -16,10 +16,10 @@
 ##  #Skills : 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-2d2d2d?style=for-the-badge&logo=html5&logoColor=E34F26">
-  <img src="https://img.shields.io/badge/-CSS3-2d2d2d?style=for-the-badge&logo=css3&logoColor=1572B6">
-  <img src="https://img.shields.io/badge/-JavaScript-2d2d2d?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/-SQL-2d2d2d?style=for-the-badge&logo=mysql&logoColor=4479A1">
-  <img src="https://img.shields.io/badge/-Python-2d2d2d?style=for-the-badge&logo=python&logoColor=3776AB">
-  <img src="https://img.shields.io/badge/-Java-2d2d2d?style=for-the-badge&logo=openjdk&logoColor=FFFFFF">
+  <img src="https://your-hosting.com/html5-icon.png" width="60px">
+  <img src="https://your-hosting.com/css3-icon.png" width="60px">
+  <img src="https://your-hosting.com/javascript-icon.png" width="60px">
+  <img src="https://your-hosting.com/sql-icon.png" width="60px">
+  <img src="https://your-hosting.com/python-icon.png" width="60px">
+  <img src="https://your-hosting.com/java-icon.png" width="60px">
 </p>
