@@ -37,3 +37,27 @@
     </td>
   </tr>
 </table>
+
+##  #Outside School im trying to learn : 
+
+<table align="center">
+  <tr>
+    <td align="center" width="100px" height="100px" bgcolor="#2d2d2d" style="border-radius: 15px; padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="50px"><br>
+      <span style="color: white;">Blender</span>
+    </td>
+    <td align="center" width="100px" height="100px" bgcolor="#2d2d2d" style="border-radius: 15px; padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="50px"><br>
+      <span style="color: white;">Three.js</span>
+    </td>
+    <td align="center" width="100px" height="100px" bgcolor="#2d2d2d" style="border-radius: 15px; padding: 10px;">
+      <img src="https://seeklogo.com/images/G/gsap-logo-596DEC3D0E-seeklogo.com.png" width="50px"><br>
+      <span style="color: white;">GSAP</span>
+    </td>
+    <td align="center" width="100px" height="100px" bgcolor="#2d2d2d" style="border-radius: 15px; padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50px"><br>
+      <span style="color: white;">Unity</span>
+    </td>
+  </tr>
+</table>
+
