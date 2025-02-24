@@ -15,11 +15,25 @@
 
 ##  #Skills : 
 
-<p align="center">
-  <img src="https://your-hosting.com/html5-icon.png" width="60px">
-  <img src="https://your-hosting.com/css3-icon.png" width="60px">
-  <img src="https://your-hosting.com/javascript-icon.png" width="60px">
-  <img src="https://your-hosting.com/sql-icon.png" width="60px">
-  <img src="https://your-hosting.com/python-icon.png" width="60px">
-  <img src="https://your-hosting.com/java-icon.png" width="60px">
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="100px" height="100px" style="background:#2d2d2d; border-radius:15px; padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"><br>HTML
+    </td>
+    <td align="center" width="100px" height="100px" style="background:#2d2d2d; border-radius:15px; padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"><br>CSS
+    </td>
+    <td align="center" width="100px" height="100px" style="background:#2d2d2d; border-radius:15px; padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"><br>JavaScript
+    </td>
+    <td align="center" width="100px" height="100px" style="background:#2d2d2d; border-radius:15px; padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"><br>SQL
+    </td>
+    <td align="center" width="100px" height="100px" style="background:#2d2d2d; border-radius:15px; padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"><br>Python
+    </td>
+    <td align="center" width="100px" height="100px" style="background:#2d2d2d; border-radius:15px; padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"><br>Java
+    </td>
+  </tr>
+</table>
