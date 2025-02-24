@@ -15,25 +15,11 @@
 
 ##  #Skills : 
 
-<table align="center">
-  <tr>
-    <td align="center" width="100px" height="100px" style="background:#2d2d2d; border-radius:15px; padding:10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" border-radius:15px;><br>HTML
-    </td>
-    <td align="center" width="100px" height="100px" style="background:#2d2d2d; border-radius:15px; padding:10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" border-radius:15px;><br>CSS
-    </td>
-    <td align="center" width="100px" height="100px" style="background:#2d2d2d; border-radius:15px; padding:10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"><br>JavaScript
-    </td>
-    <td align="center" width="100px" height="100px" style="background:#2d2d2d; border-radius:15px; padding:10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"><br>SQL
-    </td>
-    <td align="center" width="100px" height="100px" style="background:#2d2d2d; border-radius:15px; padding:10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"><br>Python
-    </td>
-    <td align="center" width="100px" height="100px" style="background:#2d2d2d; border-radius:15px; padding:10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"><br>Java
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-2d2d2d?style=for-the-badge&logo=html5&logoColor=E34F26">
+  <img src="https://img.shields.io/badge/-CSS3-2d2d2d?style=for-the-badge&logo=css3&logoColor=1572B6">
+  <img src="https://img.shields.io/badge/-JavaScript-2d2d2d?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/-SQL-2d2d2d?style=for-the-badge&logo=mysql&logoColor=4479A1">
+  <img src="https://img.shields.io/badge/-Python-2d2d2d?style=for-the-badge&logo=python&logoColor=3776AB">
+  <img src="https://img.shields.io/badge/-Java-2d2d2d?style=for-the-badge&logo=openjdk&logoColor=FFFFFF">
+</p>
