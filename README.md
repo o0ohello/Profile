@@ -13,7 +13,7 @@
 <hr style="height: 0.5px; background-color: #828282FF;">
 
 ##  #Skills : 
-<hr style="height: 1px; background-color: #828282FF; margin-top: 0%">
+<hr style="height: 1px; background-color: #828282FF;">
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
 
