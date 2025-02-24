@@ -1,5 +1,8 @@
 <!-- Profile README -->
-<h1 align="center">Célian Brocart</h1>
+<h1 align="center">hello! here's a little about me:</h1>
+
+---
+
 <p align="center">Étudiant en BUT Informatique | Développement Logiciel & Jeux Vidéo</p>
 
 ---
