@@ -1,48 +1,36 @@
 <!-- Profile README -->
-<h5 align="left" >hello! Im Célian, Student in Computer Science :</h5>
+<h5 align="left">Hello! I'm Célian, Student in Computer Science :</h5>
 
-<hr style="height: 1px; background-color: #828282FF;">
+<img src="https://via.placeholder.com/1x1/828282/828282" width="100%" height="1px">
 
-
-
-## #here's a little about me:
+## #Here's a little about me:
 
 - 🎓 Étudiant en **BUT Informatique**
 - 💻 Passionné par le **développement logiciel | web** et la **vidéo**
 
-<hr style="height: 0.5px; background-color: #828282FF;">
+<img src="https://via.placeholder.com/1x1/828282/828282" width="100%" height="1px">
 
 ##  #Skills : 
-<hr style="height: 1px; background-color: #828282FF;">
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-
-  <div style="background: #2d2d2d; border-radius: 15px; padding: 20px; width: 70px; height: 70px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px">
-  </div>
-
-  <div style="background: #2d2d2d; border-radius: 15px; padding: 20px; width: 70px; height: 70px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px">
-  </div>
-
-  <div style="background: #2d2d2d; border-radius: 15px; padding: 20px; width: 70px; height: 70px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px">
-  </div>
-
-  <div style="background: #2d2d2d; border-radius: 15px; padding: 20px; width: 70px; height: 70px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px">
-  </div>
-
-  <div style="background: #2d2d2d; border-radius: 15px; padding: 20px; width: 70px; height: 70px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px">
-  </div>
-
-  <div style="background: #2d2d2d; border-radius: 15px; padding: 20px; width: 70px; height: 70px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px">
-  </div>
-
-</div>
-
-
-
--
+<table align="center">
+  <tr>
+    <td align="center" width="100px" height="100px" style="background:#2d2d2d; border-radius:15px; padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"><br>HTML
+    </td>
+    <td align="center" width="100px" height="100px" style="background:#2d2d2d; border-radius:15px; padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"><br>CSS
+    </td>
+    <td align="center" width="100px" height="100px" style="background:#2d2d2d; border-radius:15px; padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"><br>JavaScript
+    </td>
+    <td align="center" width="100px" height="100px" style="background:#2d2d2d; border-radius:15px; padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"><br>SQL
+    </td>
+    <td align="center" width="100px" height="100px" style="background:#2d2d2d; border-radius:15px; padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"><br>Python
+    </td>
+    <td align="center" width="100px" height="100px" style="background:#2d2d2d; border-radius:15px; padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"><br>Java
+    </td>
+  </tr>
+</table>
