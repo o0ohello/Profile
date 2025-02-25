@@ -1,0 +1,40 @@
+<svg fill="none" viewBox="0 0 500 150" width="500" height="150" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="500" height="150">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          display: flex;
+          gap: 15px;
+          justify-content: center;
+          align-items: center;
+          background: #1e1e1e;
+          padding: 20px;
+          border-radius: 15px;
+        }
+        .box {
+          width: 70px;
+          height: 70px;
+          background: #2d2d2d;
+          border-radius: 15px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+        }
+      </style>
+      <div class="container">
+        <div class="box">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40px"/>
+        </div>
+        <div class="box">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="40px"/>
+        </div>
+        <div class="box">
+          <img src="https://seeklogo.com/images/G/gsap-logo-596DEC3D0E-seeklogo.com.png" width="40px"/>
+        </div>
+        <div class="box">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40px"/>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
