@@ -60,8 +60,6 @@
   </tr>
 </table>
 
-![Mes compétences](skills.svg)
-
 
 
 
