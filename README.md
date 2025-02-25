@@ -60,3 +60,6 @@
   </tr>
 </table>
 
+![Mes compétences](https://raw.githubusercontent.com/TON_USER/TON_REPO/main/skills.svg)
+
+
