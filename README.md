@@ -30,7 +30,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"><br>SQL
     </td>
     <td align="center" width="100px" height="100px" style="background:#2d2d2d; border-radius:15px; padding:10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"><br>Python
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" style="background:#2d2d2d; border-radius:15px; padding:10px;"><br>Python
     </td>
     <td align="center" width="100px" height="100px" style="background:#2d2d2d; border-radius:15px; padding:10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"><br>Java
