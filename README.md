@@ -20,7 +20,7 @@
     <td align="center" width="100px" height="100px" style="background:#2d2d2d; border-radius:15px; padding:10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"><br>HTML
     </td>
-    <td align="center" width="100px" height="100px" style="background:#2d2d2d; border-radius:15px; padding:10px;">
+    <td align="center" width="100px" height="100px" style="background:#2d2d2d; border-radius:150px; padding:10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"><br>CSS
     </td>
     <td align="center" width="100px" height="100px" style="background:#2d2d2d; border-radius:15px; padding:10px;">
