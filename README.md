@@ -51,7 +51,7 @@
       <span style="color: white;">Three.js</span>
     </td>
     <td align="center" width="100px" height="100px" bgcolor="#2d2d2d" style="border-radius: 15px; padding: 10px;">
-      <span style="color: green;">GSAP</span>
+      <span color="green" >GSAP</span>
     </td>
     <td align="center" width="100px" height="100px" bgcolor="#2d2d2d" style="border-radius: 15px; padding: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50px"><br>
