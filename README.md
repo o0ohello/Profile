@@ -60,6 +60,8 @@
   </tr>
 </table>
 
-![Mes compétences](https://raw.githubusercontent.com/o0ohello/o0ohello/skills.svg)
+![Mes compétences](skills.svg)
+
+
 
 
